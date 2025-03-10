@@ -5,3 +5,4 @@ timm
 h5py
 submitit
 scikit-image
+mask2former/modeling/pixel_decoder/ops/.
